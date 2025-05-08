@@ -21,6 +21,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure roles for grouping permissions
 - Set up departments for ticket visibilities
 - Create teams using agents from different departments
+- Ensure that anyone can create tickets
 - Create both agents (workers) and users (customers)
 - Configure SLA plans for tickets
 - Create help topics for when users create a ticket
