@@ -28,6 +28,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
+<h3>Roles</h3>
+
 <p>
 <img src="https://i.imgur.com/Tnzw365.png" height="80%" width="80%" alt="osTicket Post"/>
 </p>
@@ -68,6 +70,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
+<h3>Departments</h3>
+
 <p>
 <img src="https://i.imgur.com/pCo53zI.png" height="80%" width="80%" alt="osTicket Post"/>
 </p>
@@ -84,6 +88,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
+<h3>Teams</h3>
 <p>
 <img src="https://i.imgur.com/19Lfr1Z.png" height="80%" width="80%" alt="osTicket Post"/>
 </p>
@@ -100,6 +105,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
+<h3>Allowance to Create Tickets</h3>
+
 <p>
 <img src="https://i.imgur.com/h1870m3.png" height="80%" width="80%" alt="osTicket Post"/>
 </p>
@@ -107,6 +114,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+
+<h3>Agents</h3>
 
 <p>
 <img src="https://i.imgur.com/yCUdiq5.png" height="80%" width="80%" alt="osTicket Post"/>
@@ -164,6 +173,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
+<h3>Users</h3>
+
 <p>
 <img src="https://i.imgur.com/kYpvgD6.png" height="80%" width="80%" alt="osTicket Post"/>
 </p>
@@ -188,6 +199,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
+<h3>SLA</h3>
+
 <p>
 <img src="https://i.imgur.com/GiYYNYw.png" height="80%" width="80%" alt="osTicket Post"/>
 </p>
@@ -203,6 +216,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+
+<h3>Help Topics</h3>
 
 <p>
 <img src="https://i.imgur.com/CtSWCXG.png" height="80%" width="80%" alt="osTicket Post"/>
