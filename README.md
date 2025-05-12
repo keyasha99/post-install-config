@@ -101,7 +101,15 @@ Navigate to the Teams underneath the Agents tab to create a new team. Go to Add 
 <img src="https://i.imgur.com/9EHVHKW.png" height="80%" width="80%" alt="osTicket Post"/>
 </p>
 <p>
-Name your team and create it.
+Name your team.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/XtN6fqR.png" height="80%" width="80%" alt="osTicket Post"/>
+</p>
+<p>
+You can also add members to your team. When you're done, create the team.
 </p>
 <br />
 
