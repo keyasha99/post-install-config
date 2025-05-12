@@ -231,6 +231,6 @@ To create help topics of your own, go to Help Topics underneath the Manage tab.
 <img src="https://i.imgur.com/F4Aj7P0.png" height="80%" width="80%" alt="osTicket Post"/>
 </p>
 <p>
-I created a Help Topic for Business Critical Outage and set the Parent Topic to Report a Problem. I've also created Personal Computer Issues - Report a Problem, Equipment Request - General Inquiry, Password Reset - Report a Problem, and Other - General Inquiry.
+I created a Help Topic for Business Critical Outage and set the Parent Topic to Report a Problem. I've also created Personal Computer Issues (Parent Topic: Report a Problem), Equipment Request (Parent Topic: General Inquiry), Password Reset (Parent Topic: Report a Problem), and Other (Parent Topic: General Inquiry).
 </p>
 <br />
