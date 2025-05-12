@@ -145,7 +145,7 @@ You can send your agent a password reset email if you like. For this tutorial, I
 <img src="https://i.imgur.com/GbN4WML.png" height="80%" width="80%" alt="osTicket Post"/>
 </p>
 <p>
-In the Access tab, I assigned Jane to the SysAdmin department with the role of Supreme Admin. 
+In the Access tab, I assigned Jane to the SysAdmin department with a Supreme Admin role. 
 </p>
 <br />
 
@@ -166,10 +166,10 @@ Here, I created another agent named John.
 <br />
 
 <p>
-<img src="https://i.imgur.com/axBKi7c.png" height="80%" width="80%" alt="osTicket Post"/>
+<img src="https://i.imgur.com/s6Lg3HN.png" height="80%" width="80%" alt="osTicket Post"/>
 </p>
 <p>
-For access, I assigned John to the Support department with the role of View Only.
+For access, I assigned John to the Support department with an All Access role.
 </p>
 <br />
 
