@@ -19,7 +19,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Post-Install Configuration Objectives</h2>
 
 - Configure roles for grouping permissions
-- Set up departments for ticket visibilities
+- Set up departments for ticket visibility
 - Create teams using agents from different departments
 - Ensure that anyone can create tickets
 - Create both agents (workers) and users (customers)
@@ -34,7 +34,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/Tnzw365.png" height="80%" width="80%" alt="osTicket Post"/>
 </p>
 <p>
-Right where it says Welcome (your name), click on Admin Panel to switch over to the Administration Panel.
+Right where it says Welcome (your name), click on the Admin Panel to access the Administration Panel.
 </p>
 <br />
 
@@ -58,7 +58,7 @@ Go to Add New Role.
 <img src="https://i.imgur.com/CcRyWQ8.png" height="80%" width="80%" alt="osTicket Post"/>
 </p>
 <p>
-Here, I named the role Sumpreme Admin. You can name it anything you want.
+Here, I named the role Supreme Admin. You can name it anything you want.
 </p>
 <br />
 
@@ -66,7 +66,7 @@ Here, I named the role Sumpreme Admin. You can name it anything you want.
 <img src="https://i.imgur.com/AThYJv3.png" height="80%" width="80%" alt="osTicket Post"/>
 </p>
 <p>
-Go over to the Permissions tab to ensure that all of the permissions are checked off. Then click Add Role.
+Go to the Permissions tab to ensure all permissions are checked off. Then click Add Role.
 </p>
 <br />
 
@@ -76,7 +76,7 @@ Go over to the Permissions tab to ensure that all of the permissions are checked
 <img src="https://i.imgur.com/pCo53zI.png" height="80%" width="80%" alt="osTicket Post"/>
 </p>
 <p>
-To create a new department, go back to the Agents tab and then Departments. Go to Add New Department.
+To create a new department, return to the Agents tab and Departments. Go to Add New Department.
 </p>
 <br />
 
@@ -84,7 +84,7 @@ To create a new department, go back to the Agents tab and then Departments. Go t
 <img src="https://i.imgur.com/CBXg50O.png" height="80%" width="80%" alt="osTicket Post"/>
 </p>
 <p>
-For the Parent field, select Top Level Department. For Name, enter any name that you want. You can also change the other things to your liking. If you're just following along with this tutorial, leave everything else how it is. Scroll down and click Create Dept.
+For the Parent field, select Top Level Department. For Name, enter any name that you want. You can also change the other things to your liking. If you're just following this tutorial, leave everything else as it is. Scroll down and click Create Dept.
 </p>
 <br />
 
@@ -111,7 +111,7 @@ Name your team and create it.
 <img src="https://i.imgur.com/h1870m3.png" height="80%" width="80%" alt="osTicket Post"/>
 </p>
 <p>
-This step is to ensure that anyone is allowed to make tickets. Go to Settings and then Users. Make sure that the box next to "Require registration and login to create tickets" is unchecked.
+This step ensures that anyone is allowed to make tickets. Go to Settings and then Users. Ensure the box next to "Require registration and login to create tickets" is unchecked.
 </p>
 <br />
 
@@ -121,7 +121,7 @@ This step is to ensure that anyone is allowed to make tickets. Go to Settings an
 <img src="https://i.imgur.com/yCUdiq5.png" height="80%" width="80%" alt="osTicket Post"/>
 </p>
 <p>
-To create agents, go to Agents underneath Agents and go to Add New Agents.
+To create agents, go to Agents underneath Agents and Add New Agents.
 </p>
 <br />
 
@@ -213,7 +213,7 @@ To create SLAs for your tickets, switch back to the Admin Panel. Go to Manage an
 <img src="https://i.imgur.com/iZk8phe.png" height="80%" width="80%" alt="osTicket Post"/>
 </p>
 <p>
-Here I created a SLA Plan for high priority tickets. I set the grace period to 1 hour and the schedule to 24/7. I've created two more SLA plans. Sev-B (Grace Period: 4 hours, Schedule: 24/7) and Sev-C (Grace Period: 8 hours, Business Hours).
+Here, I created an SLA Plan for high-priority tickets. I set the grace period to 1 hour and the schedule to 24/7. I've made two more SLA plans. Sev-B (Grace Period: 4 hours, Schedule: 24/7) and Sev-C (Grace Period: 8 hours, Business Hours).
 </p>
 <br />
 
@@ -223,7 +223,7 @@ Here I created a SLA Plan for high priority tickets. I set the grace period to 1
 <img src="https://i.imgur.com/CtSWCXG.png" height="80%" width="80%" alt="osTicket Post"/>
 </p>
 <p>
-To create help topics of your own, go to Help Topics underneath the Manage tab.
+To create help topics, go to Help Topics underneath the Manage tab.
 </p>
 <br />
 
@@ -231,6 +231,6 @@ To create help topics of your own, go to Help Topics underneath the Manage tab.
 <img src="https://i.imgur.com/F4Aj7P0.png" height="80%" width="80%" alt="osTicket Post"/>
 </p>
 <p>
-I created a Help Topic for Business Critical Outage and set the Parent Topic to Report a Problem. I've also created Personal Computer Issues (Parent Topic: Report a Problem), Equipment Request (Parent Topic: General Inquiry), Password Reset (Parent Topic: Report a Problem), and Other (Parent Topic: General Inquiry).
+I created a Help Topic for Business Critical Outage and set the Parent Topic to Report a Problem. I've also made four more: Personal Computer Issues (Parent Topic: Report a Problem), Equipment Request (Parent Topic: General Inquiry), Password Reset (Parent Topic: Report a Problem), and Other (Parent Topic: General Inquiry).
 </p>
 <br />
